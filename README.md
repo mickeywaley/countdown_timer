@@ -1,6 +1,13 @@
 # countdown_timer
 倒计时器
 
+countdown_timer
+
+WIN下编译命令 
+
+pyinstaller --onefile --windowed --name countdown_timer countdown_timer.py
+
+-----------------
 
 界面
 
